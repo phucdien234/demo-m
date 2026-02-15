@@ -550,8 +550,8 @@ const WISH_MESSAGES = [
 	"Chúc mọi điều ước của bé đều trở thành hiện thực ✨",
 	"Chúc gia đình bé luôn bình an và hạnh phúc ❤️",
 	"Chúc bé luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc bé học hành thuận lợi, thăng tiến không ngừng 🚀",
-	"Chúc bé luôn mỉm cười và yêu đời mỗi ngày 😊",
+	"Chúc bé học hành giỏi hơn, thăng tiến không ngừng 🚀",
+	"Chúc qua năm mới tụi mình sẽ bước vào mối quan hệ yêu nhau nhìu hơn nữa nhenn 😊",
 	"Chúc bé gặp nhiều may mắn và niềm vui 🎉",
 ];
 

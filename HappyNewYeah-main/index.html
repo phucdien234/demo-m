@@ -400,6 +400,17 @@
 		</div>
 	</div>
 
+	<audio id="bgMusic" autoplay loop>
+    <source src="audio/burst1.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+document.addEventListener("click", function () {
+    const music = document.getElementById("bgMusic");
+    music.play();
+}, { once: true });
+</script>
+
 	<!-- partial -->
 	<script src="./js/fscreen.js"></script>
 	<script src="./js/Stage.js"></script>
